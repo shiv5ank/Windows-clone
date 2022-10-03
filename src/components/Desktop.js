@@ -7,7 +7,7 @@ const Desktop = () => {
       <div className="background_container">
         <div className="icon_container">
           <div className="icon_app">
-          <button className="app"><img src={folder}/></button>
+          <button className="app"><img src={folder} alt="folder"/></button>
           </div>
           <div className="icon_name">
             <span>Windows 11</span>
